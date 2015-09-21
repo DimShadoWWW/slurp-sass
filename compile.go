@@ -6,7 +6,8 @@ import (
 	"sync"
 
 	"github.com/omeid/slurp"
-	"github.com/yourheropaul/gosass"
+	"github.com/ezoic/gosass"
+
 )
 
 func Compile(c *slurp.C) slurp.Stage {
